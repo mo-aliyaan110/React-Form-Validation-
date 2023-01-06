@@ -1,3 +1,16 @@
+This repo contains the React form validation of below fields:
+1) Email
+2) Password
+3) FirstName 
+4) LastName
+5) Address
+6) Country code
+7) Phone Number
+8) Accept Terms and Conditions (check box)
+
+Along with Back, Save and 'Save And Next' Button.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
